@@ -1,0 +1,14 @@
+{
+  "name": "bower",
+  "description": "Learning how to use reactjs",
+  "main": "index.js",
+  "authors": [
+    "Jeffrey Mara"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "bowser": "browser#^1.6.0",
+    "react": "^15.4.2"
+  }
+}
